@@ -51,7 +51,7 @@ localhost:8000/update:1234:625f6afcd7664b957b122ec3
 
 localhost:8000/delete:510:625e5db19800c705fe38fb70
 
-**I have uploaded database in .JSOn with name product.json**
+**I have uploaded database in .json with name product.json**
 
 Thanks.
 
