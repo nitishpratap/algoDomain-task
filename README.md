@@ -15,10 +15,15 @@ create a new collection in Postman.
 now use following commond for maniputation with REST API.
 
 **For Adding products** 
+
 localhost:8000/addaproduct:1234 
+
 **For adding multiple products**
+
 localhost:8000/addMultipleproduct:510
-**Finding product by name**
+
+**Finding product by name**"
+
 localhost:8000/productByName:Dell Latitude 5420
 **Finding product by category**
 localhost:8000/productByCategory:Electronics
