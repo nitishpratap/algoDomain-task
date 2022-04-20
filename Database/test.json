@@ -1,0 +1,13 @@
+{
+    "name":"Dell Latitude 5420",
+    "category":"Electronics",
+    "ProductType":"Laptop",
+    "price":36520,
+    "ram":"8GB",
+    "cpu":"i5",
+    "screenSize":"14 inch",
+    "color":"grey",
+    "waranaty":"2 years",
+    "brand":"Dell",
+    "sellerId":510
+}
