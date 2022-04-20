@@ -46,6 +46,7 @@ localhost:8000/getProduct:4564566
 
 localhost:8000/update:1234:625f6afcd7664b957b122ec3
 
+
 **deleting a product by seller**
 
 localhost:8000/delete:510:625e5db19800c705fe38fb70
